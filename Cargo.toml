@@ -1,0 +1,12 @@
+[package]
+name = "http2byond"
+version = "0.1.0"
+authors = ["Tigercat2000 <nick.pilant2@gmail.com>"]
+edition = "2018"
+license = "MIT"
+keywords = ["byond", "gamedev"]
+repository = "https://github.com/tigercat2000/rust_http2byond"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+bytes = "0.6.0"
