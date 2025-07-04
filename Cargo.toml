@@ -1,8 +1,8 @@
 [package]
 name = "http2byond"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Tigercat2000 <nick.pilant2@gmail.com>"]
-edition = "2018"
+edition = "2024"
 license = "MIT"
 description = "A library that handles /world/Topic() communication with BYOND servers."
 keywords = ["byond", "gamedev"]
@@ -11,4 +11,4 @@ readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
-bytes = "0.6.0"
+bytes = "1.0"
